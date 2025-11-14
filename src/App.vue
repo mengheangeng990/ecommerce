@@ -34,6 +34,8 @@
 </template>
 
 <script lang="ts">
+
+// import
 import axios from 'axios';
 import CategoryCard from './components/category.vue';
 import PromotionCard from './components/Promotion.vue';
